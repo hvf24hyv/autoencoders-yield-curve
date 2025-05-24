@@ -7,7 +7,7 @@ The project explores various neural network architectures for yield curve recons
 - Pure (unconstrained) autoencoders
 - Arbitrage-minimizing models
 - Arbitrage-free affine models (with 3 ODE solvers)
-- A quadratic extension for negative rates
+- A quadratic extension
 - An HJM-based arbitrage-minimizing model
 
 ## 📁 Structure
